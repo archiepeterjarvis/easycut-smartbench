@@ -5,7 +5,7 @@ Created on 16 Nov 2017
 @author: Ed
 YetiTool's UI for SmartBench
 www.yetitool.com
-
+git remote set-url origin https://github.com/archiepeterjarvis/easycut-smartbench
 '''
 from asmcnc import paths
 
